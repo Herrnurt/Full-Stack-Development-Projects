@@ -1,0 +1,14 @@
+.background{
+	background-color:#adf802;
+}
+
+.section-background{
+	background-color: white;
+}
+
+section {
+  margin-top: 0px;
+  margin-bottom: 16px;
+  margin-right: 250px;
+  margin-left: 250px;
+}
